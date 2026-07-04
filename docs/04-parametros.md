@@ -65,7 +65,6 @@ verde da engine 3–6.
 |---|---|---|---|---|
 | `COLETOR` | 60×28 | 70 px | 4×3×0,85 | ~10 m³ (≈ 2 viagens de lâmina) |
 | `CARRETA` | 95×32 | 120 px | 6×3×1,1 | ~20 m³ — **mais larga que a lâmina**: exige ataque 2/3\|1/3 |
-| `DEMO` | 60×28 | 70 px | 3×3×0,5 | 4,5 m³ — ciclo-modelo curto |
 
 ## DIESEL — consumo virtual
 
@@ -83,7 +82,6 @@ verde da engine 3–6.
 |---|---|---|
 | `EXPECTED_TIME` | 960 s | Meta de tempo (produtividade = 100·meta/tempo, cap 100). Calibrada por simulação: operação-modelo ≈ 980 s, na linha da referência de ~12 min/batelada da Especificação |
 | `MAX_BATCH` | 5 | Caminhões por batelada completa |
-| `DEMO_BATCH` | 1 | Caminhões na demo |
 
 ## TEC6 — tomada de distância
 
@@ -112,4 +110,3 @@ Valores definidos localmente (candidatos a migrar para `params.js` — ver revis
 | `TerrainGrid.js` | `coverRow=6`, `crestRow=40%`, `peRow=80%`, `dischargeRow=56,5` | Linhas do módulo |
 | `Game.js` | spawn a cada 2 s; raio 130 px do julgamento de ataque; cooldowns do coach (8–25 s) | Ritmo e didática |
 | `Truck.js` | velocidade 300 px/s, descarga em 1 s, vagas com margem de 80 px | Ciclo dos NPCs |
-| `Autopilot.js` | limiares de rampa (0,78/0,42/0,36…), watchdog 25 s, teto de 4 ciclos | Piloto da demo |

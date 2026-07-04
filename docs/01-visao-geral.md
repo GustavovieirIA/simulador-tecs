@@ -36,29 +36,16 @@ npm run build    # build de produção em dist/
 npm run preview  # pré-visualiza o build
 ```
 
-Playtest automatizado (com o dev server rodando):
-
-```bash
-node tools/scripts/validate_demo.js   [url]   # valida o ciclo da demo
-node tools/scripts/validate_player.js [url]   # "operador perfeito" joga o turno completo
-```
-
-A URL padrão dos scripts é `http://localhost:5175/` — passe a URL real do Vite como
-argumento se a porta for outra.
-
 Para depuração no console do navegador, a instância do jogo fica exposta em
 `window.game` (definido em [main.js](../src/main.js)).
 
 ## Fluxo de jogo (alto nível)
 
-1. **Demo (piloto automático)** — o jogo abre em modo demonstração: 1 caminhão
-   descarrega uma pilha curta e o `Autopilot` executa o ciclo-modelo completo
-   narrando cada TEC no rádio. Um banner oferece o botão **"Assumir Comando"**.
-2. **Turno do jogador** — ao assumir (ou quando a demo termina), tudo zera: relógio,
-   diesel, violações. Chega uma batelada de **5 caminhões** (coletores e carretas
-   alternados) que descarregam nas vagas 1–5. O jogador executa o ciclo TEC pilha a
-   pilha. Um "coach" (mensagens de rádio + alertas) corrige erros didáticos em tempo real.
-3. **Fechamento** — `Enter` (ou o botão "Finalizar Turno") encerra: primeiro um **quiz
+1. **Turno do jogador** — o jogo abre direto no comando do jogador. Chega uma
+   batelada de **5 caminhões** (coletores e carretas alternados) que descarregam nas
+   vagas 1–5. O jogador executa o ciclo TEC pilha a pilha. Um "coach" (mensagens de
+   rádio + alertas) corrige erros didáticos em tempo real.
+2. **Fechamento** — `Enter` (ou o botão "Finalizar Turno") encerra: primeiro um **quiz
    de 4 perguntas** (uma por TEC-chave do ciclo), depois a **FDE** com KPIs, conceito
    A–E, dica acionável e o snapshot do heatmap final. "Novo Turno" recarrega a página.
 
@@ -73,7 +60,6 @@ src/
   engine/
     Game.js                 Loop, estado, câmera, partículas, coach, KPIs, quiz
     Input.js                Teclado (isDown / isJustPressed)
-    Autopilot.js            Máquina de estados da demo (operação-modelo)
     AudioEngine.js          Motor de áudio sintetizado (WebAudio)
   entities/
     Tractor.js              Física do trator, lâmina, compactação, render vetorial

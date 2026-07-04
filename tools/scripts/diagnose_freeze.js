@@ -34,7 +34,6 @@ const url = process.argv[2] || 'http://localhost:5175/';
 
     wrap(g.tractor, 'update', 'tractor');
     wrap(g.tractor, 'interactWithTerrain', 'terrain-interact');
-    wrap(g.autopilot, 'update', 'autopilot');
     wrap(g.hud, 'update', 'hud');
     wrap(g, 'resolveTruckCollisions', 'collisions');
     wrap(g, 'checkDidacticRules', 'coach');
@@ -73,7 +72,6 @@ const url = process.argv[2] || 'http://localhost:5175/';
         page.evaluate(() => ({
           frames: window._frames,
           cp: window._checkpoint,
-          st: window.game.autopilot.state,
           phase: window.game.state.phase,
           pos: `${Math.round(window.game.tractor.x)},${Math.round(window.game.tractor.y)}`,
           trucks: window.game.trucks.map(t => `${t.state}@${Math.round(t.x)},${Math.round(t.y)}`).join(' ')
@@ -89,7 +87,7 @@ const url = process.argv[2] || 'http://localhost:5175/';
     lastFrames = s.frames;
 
     if (s.st === 'DONE' && s.phase === 'WAITING_TRUCKS') {
-      console.log('Demo terminou sem travar.');
+      console.log('Sessão terminou sem travar.');
       break;
     }
   }

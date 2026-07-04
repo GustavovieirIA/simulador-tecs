@@ -205,23 +205,6 @@ canvas#gameCanvas {
   to { opacity: 1; transform: translateX(0); }
 }
 
-.demo-banner {
-  position: absolute;
-  top: 40px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: rgba(240, 180, 41, 0.95);
-  color: #1a1a1a;
-  padding: 15px 30px;
-  border-radius: 12px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  z-index: 100;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.5);
-  pointer-events: auto;
-}
-
 /* BOTTOM RIGHT: INSTRUMENTS */
 .instruments-panel {
   grid-column: 3;
@@ -611,21 +594,6 @@ kbd {
   .mission-panel h1 { font-size: 13px; }
   .radio-panel { height: 170px; }
   .instrument .value { font-size: 22px; }
-  .demo-banner { max-width: min(600px, 72vw); }
-}
-
-/* DEMO BANNER */
-
-.demo-text {
-  color: var(--primary);
-  font-weight: 800;
-  letter-spacing: 1px;
-  font-size: 14px;
-}
-@keyframes pulseDemo {
-  0% { box-shadow: 0 0 10px rgba(240, 180, 41, 0.2); }
-  50% { box-shadow: 0 0 30px rgba(240, 180, 41, 0.6); }
-  100% { box-shadow: 0 0 10px rgba(240, 180, 41, 0.2); }
 }
 
 /* QUIZ STYLES */

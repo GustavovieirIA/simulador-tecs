@@ -10,7 +10,7 @@ técnicas (KPIs de Produtividade, Qualidade e Segurança na FDE ao fim do turno)
 A documentação completa está em [`docs/`](docs/01-visao-geral.md):
 
 1. [Visão geral](docs/01-visao-geral.md) — o que é, como rodar, fluxo de jogo
-2. [Arquitetura](docs/02-arquitetura.md) — módulos, loop, terreno, autopilot, áudio
+2. [Arquitetura](docs/02-arquitetura.md) — módulos, loop, terreno, áudio
 3. [Mecânicas e TECs](docs/03-mecanicas-e-tecs.md) — regras, física, coach, KPIs
 4. [Parâmetros](docs/04-parametros.md) — tabela comentada de `src/config/params.js`
 5. [Revisão de código](docs/05-revisao-de-codigo.md) — achados, pendências e pontos fortes
@@ -31,7 +31,7 @@ index.html                  Entrada da aplicação (carrega src/main.js)
 style.css                   Estilos globais
 src/
   main.js                   Bootstrap do jogo
-  engine/                   Loop, input, áudio, autopilot
+  engine/                   Loop, input, áudio
   entities/                 Trator, caminhão
   world/                    Grade de terreno
   ui/                       HUD, modal de quiz

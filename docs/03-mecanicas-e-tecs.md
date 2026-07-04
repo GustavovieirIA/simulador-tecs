@@ -82,7 +82,7 @@ proporção do material novo.
 
 ### TEC 1 — Coordenação da Descarga (bateladas)
 
-- Batelada de **5 caminhões** (demo: 1), tipos alternados COLETOR/CARRETA
+- Batelada de **5 caminhões**, tipos alternados COLETOR/CARRETA
   (`Game.update`, spawn). A carreta tem **perímetro de segurança maior** (120 px vs 70)
   e pilha mais larga.
 - Enquanto manobra/descarrega, o caminhão projeta o perímetro (círculo vermelho

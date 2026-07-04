@@ -62,11 +62,6 @@ export const TRUCKS = {
     pile: { w: 6, d: 3, h: 1.1 },   // ~20 m³, pilha LONGA e LARGA ≈ 4 viagens,
                                     // 3 ataques de borda (2/3|1/3) por pilha
   },
-  DEMO: {
-    length: 60, width: 28,
-    dangerRadius: 70,
-    pile: { w: 3, d: 3, h: 0.5 },   // 4,5 m³: um ciclo-modelo curto e perfeito
-  },
 };
 
 // Consumo virtual de diesel (a fonte insiste: técnica errada = diesel queimado)
@@ -84,7 +79,6 @@ export const SHIFT = {
   // Produtividade = 100 × meta/tempo (cap 100) — degrada suave, não punitiva.
   EXPECTED_TIME: 960,   // s — meta de tempo do turno do jogador
   MAX_BATCH: 5,         // caminhões por batelada completa
-  DEMO_BATCH: 1,        // 1 caminhão na demo: um ciclo completo e perfeito
 };
 
 // TEC 6 (Encaixe/baliza): tomada de distância = ré longa com lâmina vazia na

@@ -3,7 +3,7 @@
 Revisão completa de `src/`, `index.html`, `style.css`, `package.json` e
 `tools/scripts/` em 04/07/2026. Veredito geral: **código sólido para um MVP** —
 parâmetros centralizados, caches de render bem pensados, conservação de massa na
-física da lâmina, watchdog no autopilot e guardas de escrita no DOM.
+física da lâmina e guardas de escrita no DOM.
 
 **Status:** os achados P1–P7 foram corrigidos em 04/07/2026 (mesma sessão da
 revisão). P8 e P9 permanecem como melhorias sugeridas.
@@ -52,19 +52,17 @@ que vierem a existir).
 
 ### P7 — Enter × botão “Finalizar Turno” inconsistentes (informativo) — ✅ resolvido
 
-`Enter` só finalizava em `READY`; o botão também aceitava `WAITING_TRUCKS`. Além
-disso, durante a **demo** na fase `READY`, `Enter` finalizaria o turno da demo e
-mostraria um relatório sem sentido. **Fix:** `Enter` agora usa as mesmas fases do
-botão e é bloqueado na demo (`!state.isDemo`) —
-[Game.js](../src/engine/Game.js), busca por “Finish condition”.
+`Enter` só finalizava em `READY`; o botão também aceitava `WAITING_TRUCKS`.
+**Fix:** `Enter` agora usa as mesmas fases do botão —
+[Game.js](../src/engine/Game.js), busca por “Finish condition”. (O bloqueio na
+demo deixou de existir junto com o modo demo, removido do jogo.)
 
 ### P8 — Números mágicos fora de `params.js` (melhoria futura)
 
 A regra do projeto é “toda regra numérica sai de `params.js`”, mas ainda há
 constantes de gameplay espalhadas: raio de 130 px do julgamento de ataque
 (`Game.evaluateAttack`), spawn de 2 s, cooldowns do coach (8–25 s), física do trator
-(60/120 px/s, 1,5 rad/s), limiares de rampa do autopilot (0,78/0,42/0,36), ciclo do
-caminhão (300 px/s, 1 s). Não é bug — mas a migração gradual para `params.js`
+(60/120 px/s, 1,5 rad/s), ciclo do caminhão (300 px/s, 1 s). Não é bug — mas a migração gradual para `params.js`
 manteria a promessa da fonte única (a tabela em
 [04-parametros.md](04-parametros.md#constantes-relevantes-fora-de-paramsjs) lista todas).
 
@@ -85,14 +83,10 @@ na FDE em versões futuras.
 - **Física didática correta**: rebarba direcional com conservação de massa, camada
   atual vs. base enterrada, vão central das esteiras (passo de dança emergente),
   passada dobrada + carimbo na crista.
-- **Autopilot robusto**: watchdog de 25 s, replanejamento em telhas, esterço em
-  pulsos com carga (respeita a própria regra da curva em carga), handover limpo
-  para o jogador.
 - **Acessibilidade de feedback**: alerta crítico chega por 4 canais (rádio, flash,
   toast, klaxon) e o rádio guarda o histórico.
-- **Testabilidade**: `window.game` + scripts Puppeteer que jogam o jogo real de
-  ponta a ponta (o `validate_player.js` reusa o autopilot como “operador perfeito”
-  sob as regras do jogador).
+- **Testabilidade**: `window.game` exposto para depuração e scripts Puppeteer
+  de diagnóstico em `tools/scripts/`.
 
 ## Verificações feitas sem achado
 

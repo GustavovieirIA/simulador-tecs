@@ -1,6 +1,5 @@
 import { Input } from './Input.js';
 import { HUD } from '../ui/HUD.js';
-import { Autopilot } from './Autopilot.js';
 import { QuizModal } from '../ui/QuizModal.js';
 import { COMPACTION, LAYER, SAFETY, SHIFT, QUALITY, TEC6, classifyPasses } from '../config/params.js';
 
@@ -51,15 +50,13 @@ export class Game {
     this.state = {
       batch: 0,
       maxBatch: SHIFT.MAX_BATCH,
-      phase: 'WAITING_TRUCKS', // WAITING_TRUCKS, DUMPING, READY, DONE, QUIZ
-      isDemo: false
+      phase: 'WAITING_TRUCKS' // WAITING_TRUCKS, DUMPING, READY, DONE, QUIZ
     };
 
     // Entities
     this.tractor = null;
     this.terrain = null;
     this.trucks = [];
-    this.autopilot = new Autopilot();
 
     // TEC 7 — sentido de trabalho: registro das pilhas descarregadas e da
     // ordem em que o jogador as ataca
@@ -135,9 +132,8 @@ export class Game {
     if (this.audio) this.audio.klaxon();
   }
 
-  // Entrega do comando ao jogador (via botão ou fim da demo)
+  // Início do turno do jogador (chamado na abertura da sessão)
   beginPlayerShift(message) {
-    this.state.isDemo = false;
     this.state.phase = 'WAITING_TRUCKS';
     this.state.batch = 0; // batelada COMPLETA para o jogador (TEC 1: 5 pilhas)
     this.gameTime = 0; // o relógio do turno começa agora
@@ -158,9 +154,6 @@ export class Game {
     this.attackSeq = [];
     this.workDir = 0;
     this.input.keys = {};
-
-    const demoBanner = document.getElementById('demo-banner');
-    if (demoBanner) demoBanner.style.display = 'none';
 
     const controlsPanel = document.getElementById('controls-panel');
     if (controlsPanel) controlsPanel.style.display = 'block';
@@ -403,16 +396,13 @@ export class Game {
 
     // Truck Spawning Logic
     if (this.state.phase === 'WAITING_TRUCKS' || this.state.phase === 'DUMPING') {
-      let currentMaxBatch = this.state.isDemo ? SHIFT.DEMO_BATCH : this.state.maxBatch;
-      if (this.state.batch < currentMaxBatch) {
+      if (this.state.batch < this.state.maxBatch) {
         this.spawnTimer -= dt;
         if (this.spawnTimer <= 0) {
           if (this.truckClass) {
             // TEC 1: tipos alternados — o perímetro de segurança da carreta
             // é maior que o do coletor; a pilha da carreta é mais larga (TEC 3).
-            // A demo usa uma pilha curta: um ciclo-modelo rápido e perfeito.
-            const type = this.state.isDemo ? 'DEMO'
-              : this.state.batch % 2 === 1 ? 'CARRETA' : 'COLETOR';
+            const type = this.state.batch % 2 === 1 ? 'CARRETA' : 'COLETOR';
             this.trucks.push(new this.truckClass(
               this.state.batch,
               this.terrain.width * this.terrain.cellSize,
@@ -435,27 +425,7 @@ export class Game {
     }
 
     if (this.tractor) {
-        let currentInput = this.input;
-
-        // Use autopilot input if in DEMO mode
-        if (this.state.isDemo) {
-          // Wait until all trucks are dumped (phase READY) before operating
-          if (this.state.phase === 'READY') {
-              this.autopilot.update(dt, this.tractor, this.terrain, this);
-              currentInput = this.autopilot.input;
-
-              // Handover when Autopilot is completely done
-              if (this.autopilot.state === 'DONE') {
-                 this.beginPlayerShift('Demonstração concluída! Agora é com você. O ciclo: ataque 2/3|1/3 → transporte lâmina 0 → espalhe a 20–30cm na rampa → pêndulo na crista → ré com ½ esteira → acabamento até a banda verde.');
-              }
-          } else {
-              // Stay still and wait for trucks
-              currentInput = { keys: {}, isJustPressed: () => false, isDown: () => false };
-              this.tractor.speed = 0;
-          }
-        }
-
-        this.tractor.update(dt, currentInput, this.terrain, this);
+        this.tractor.update(dt, this.input, this.terrain, this);
 
         // Eventos do trator (ataque, pêndulo) consumidos pelo coach
         this.consumeTractorEvents();
@@ -522,9 +492,8 @@ export class Game {
     this.checkTruckSafety();
 
     // Finish condition — o quiz de fechamento roda dentro de finishShift.
-    // Mesmas fases do botão "Finalizar Turno"; nunca na demo (o relatório
-    // e o quiz são do turno do jogador)
-    if (this.input.isJustPressed('Enter') && !this.state.isDemo &&
+    // Mesmas fases do botão "Finalizar Turno"
+    if (this.input.isJustPressed('Enter') &&
         (this.state.phase === 'READY' || this.state.phase === 'WAITING_TRUCKS')) {
       this.finishShift();
     }
@@ -566,7 +535,7 @@ export class Game {
   }
 
   checkTruckSafety() {
-    if (this.state.isDemo || !this.tractor || this.tractor.isLocked) return;
+    if (!this.tractor || this.tractor.isLocked) return;
 
     const t = this.tractor;
     // Só conta se o trator estiver dirigindo para dentro do perímetro;
@@ -596,7 +565,7 @@ export class Game {
         this.emitParticle(t.x, t.y, Math.cos(a) * v, Math.sin(a) * v,
           0.6 + Math.random() * 0.4, 3, 8, 180, 150, 110, 0.35);
       }
-      if (!this.state.isDemo && !this.praised.has('pendulo')) {
+      if (!this.praised.has('pendulo')) {
         this.praised.add('pendulo');
         this.hud.addMessage('💥 TEC 5: Pêndulo na crista! O peso da máquina concentrado na quina — carimbo de compactação registrado.', 'system');
         if (this.audio) this.audio.pop();
@@ -608,7 +577,7 @@ export class Game {
       const ev = t.attackEvent;
       t.attackEvent = null;
       this.addTrauma(0.12); // a lâmina morde a pilha
-      if (!this.state.isDemo) this.evaluateAttack(ev);
+      this.evaluateAttack(ev);
     }
   }
 
@@ -655,8 +624,7 @@ export class Game {
   }
 
   checkDidacticRules(dt) {
-    // O coach só corrige o jogador — a demo é a operação-modelo
-    if (this.state.isDemo || !this.tractor || !this.terrain || this.tractor.isLocked) return;
+    if (!this.tractor || !this.terrain || this.tractor.isLocked) return;
 
     // Update timers
     for (let key in this.coachTimers) {
@@ -784,7 +752,6 @@ export class Game {
 
   // Mostra todas as perguntas em sequência; quando acabam, chama onDone
   runEndQuizzes(onDone) {
-    if (this.state.isDemo) { onDone(); return; }
     const questions = this.getEndQuizQuestions();
     const total = questions.length;
     this.state.phase = 'QUIZ';

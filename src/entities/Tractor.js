@@ -131,10 +131,10 @@ export class Tractor {
 
     // Safety check: curva em carga (TEC 7). Só vira violação depois de
     // TURN_GRACE segundos de esterço contínuo — microcorreções de rumo
-    // são operação normal. Não conta na demo (piloto automático).
+    // são operação normal.
     if ((isTurningLeft || isTurningRight) && Math.abs(this.speed) > 10 && this.trashInBlade > 0.1) {
       this.turnLoadedTime += dt;
-      if (game && !game.state.isDemo && this.turnLoadedTime > SAFETY.TURN_GRACE && this.violationCooldowns.turn <= 0) {
+      if (game && this.turnLoadedTime > SAFETY.TURN_GRACE && this.violationCooldowns.turn <= 0) {
         game.triggerAlert('SEGURANÇA: Curva em carga! Risco ao equipamento.');
         this.safetyViolations++;
         this.violationCooldowns.turn = SAFETY.VIOLATION_COOLDOWN;

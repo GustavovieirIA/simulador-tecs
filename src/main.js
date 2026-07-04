@@ -40,22 +40,15 @@ window.addEventListener('DOMContentLoaded', () => {
 
   window.game = game; // acesso no console para debug
 
-  // Auto-start in DEMO mode
-  game.state.isDemo = true;
-  game.state.phase = 'WAITING_TRUCKS';
-  document.getElementById('demo-banner').style.display = 'flex';
+  // Começa direto no turno do jogador
   game.start();
-  game.tractor.isLocked = false; // Unlock for AI
+  game.beginPlayerShift('Turno iniciado. Aguarde a batelada de caminhões e organize a frente.');
 
-  // Wire up the 'Take Control' button
-  document.getElementById('btn-take-control').addEventListener('click', () => {
-    game.beginPlayerShift('Você assumiu o comando. Aguarde a batelada ou organize a praça.');
-    // Os controles colapsam sozinhos depois do aprendizado (H reabre)
-    setTimeout(() => {
-      const panel = document.getElementById('controls-panel');
-      if (panel && !panel.classList.contains('collapsed')) panel.classList.add('collapsed');
-    }, 60000);
-  });
+  // Os controles colapsam sozinhos depois do aprendizado (H reabre)
+  setTimeout(() => {
+    const panel = document.getElementById('controls-panel');
+    if (panel && !panel.classList.contains('collapsed')) panel.classList.add('collapsed');
+  }, 60000);
 
   // Clique no cabeçalho dos controles também alterna a pílula
   const controlsHeader = document.getElementById('controls-header');

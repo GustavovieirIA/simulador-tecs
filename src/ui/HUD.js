@@ -58,16 +58,14 @@ export class HUD {
       }
     }
 
-    // Batch (mostra o alvo real: demo ou turno completo)
-    const target = game.state.isDemo ? SHIFT.DEMO_BATCH : game.state.maxBatch;
-    const batchTxt = `${game.state.batch}/${target}`;
+    const batchTxt = `${game.state.batch}/${game.state.maxBatch}`;
     if (batchTxt !== this.last.batch) {
       this.last.batch = batchTxt;
       this.batchValue.textContent = batchTxt;
     }
 
     // Tempo do turno vs meta (o jogador gerencia o turno como o operador real)
-    if (this.timeValue && !game.state.isDemo) {
+    if (this.timeValue) {
       const s = Math.floor(game.gameTime);
       if (s !== this.last.time) {
         this.last.time = s;
@@ -84,7 +82,7 @@ export class HUD {
     }
 
     // Diesel ao vivo
-    if (this.dieselValue && !game.state.isDemo) {
+    if (this.dieselValue) {
       const d = Math.round(t.dieselUsed * 10) / 10;
       if (d !== this.last.diesel) {
         this.last.diesel = d;
@@ -106,9 +104,7 @@ export class HUD {
     const el = document.getElementById('mission-objective');
     if (!el) return;
     let txt;
-    if (game.state.isDemo) {
-      txt = 'Objetivo: observe o ciclo-modelo do piloto automático. Assuma o comando quando quiser.';
-    } else if (game.state.phase !== 'READY' && game.state.phase !== 'DONE') {
+    if (game.state.phase !== 'READY' && game.state.phase !== 'DONE') {
       txt = `Objetivo: batelada chegando (${game.state.batch}/${game.state.maxBatch} caminhões). Aguarde fora do perímetro de segurança.`;
     } else if (game.terrain && game.distanceToNearestLoosePile() !== Infinity) {
       txt = 'Objetivo: batelada completa! Ciclo TEC pilha a pilha, vaga 1 → 5, sempre no mesmo sentido.';
