@@ -1,0 +1,82 @@
+[00:00:03.540 --> 00:00:11.140] Agora nós vamos conhecer a técnica de espalhamento e compactação, conhecida como Descartes em Linha.
+[00:00:11.140 --> 00:00:15.180] É uma das técnicas mais importantes que nós vamos conhecer a partir de agora.
+[00:00:15.180 --> 00:00:23.780] Todas as vezes que a gente olha para o módulo operacional, a gente tem que perceber onde estão as linhas, as linhas que definem o módulo.
+[00:00:23.780 --> 00:00:29.500] Se o módulo não tem linhas muito caras, muito bem definidas, ele não é um módulo operacional padrão.
+[00:00:29.500 --> 00:00:38.940] A primeira coisa que a gente precisa fazer antes de aplicar técnicas operacionais é organizar a nossa operação em módulos operacionais.
+[00:00:38.940 --> 00:00:51.660] Somente o módulo operacional pode ser enxergado pela equipe com um processo produtivo e ali eu vou conseguir aplicar técnicas operacionais para ter ganhos de performance.
+[00:00:51.660 --> 00:00:53.900] Então passamos as linhas que a gente conhece.
+[00:00:53.900 --> 00:01:02.100] Primeira delas é a linha de Descartes, é a linha onde vai ser descarregado o resíduo, em seguida a linha do pé do tabude,
+[00:01:02.100 --> 00:01:09.340] que é a linha onde começa a atividade de preenchimento, que compreende o espalhamento e compactação do resíduo,
+[00:01:09.340 --> 00:01:17.380] em seguida a linha de Cristas, que é onde termina esse limite da área de preenchimento,
+[00:01:17.660 --> 00:01:28.900] e em seguida a linha de cobertura, que é a linha que define a partir de quando a área já está coberta e pronta, finalizada,
+[00:01:28.900 --> 00:01:34.540] e qual é a área que ainda está exposta, esperando ser finalizada para cobrir.
+[00:01:34.540 --> 00:01:42.700] É importante que você lembre que as linhas de pé e linha de Cristas elas definem início e fim da área de preenchimento,
+[00:01:42.700 --> 00:01:51.340] ou seja, lixo só é preenchido na rampa, não é depois da rampa, não vai lixo, antes da rampa não vai lixo,
+[00:01:51.340 --> 00:01:56.980] mas nem sempre ela vai acontecer nesse sentido, a gente vai ter operação de baixo para cima,
+[00:01:56.980 --> 00:02:04.300] quando a operação for em aquihil, a gente vai ter operação de cima para baixo, quando ela for em dalhil.
+[00:02:04.300 --> 00:02:10.700] Então quando eu mudar o sentido da operação, eu vou mudar o sentido de trabalho,
+[00:02:10.700 --> 00:02:15.180] mas não vou mudar a posição nem o sentido das linhas,
+[00:02:15.180 --> 00:02:24.140] então é fundamental que as linhas marquem o ponto onde começa e onde termina o preenchimento,
+[00:02:24.140 --> 00:02:32.500] desde que seja ele em apirrinho ou dalhil, ele vai sempre começar em uma das duas linhas e terminar na outra,
+[00:02:32.500 --> 00:02:38.900] então isso é fundamental que a gente conheça, que a gente entende, outra coisa que a gente fala sempre é que a linha é reta,
+[00:02:38.980 --> 00:02:47.220] não vai adianta a linha curva, a linha desorganizada, porque isso não é padrão, isso não padroniza as distâncias,
+[00:02:47.220 --> 00:02:55.500] isso não protege de chuva, não deixa a área protegida, então é fundamental que a gente trabalhe sempre com linhas retas,
+[00:02:55.500 --> 00:03:00.180] com linhas que dêem para você enxergar claramente que tem uma linha de trabalho ali.
+[00:03:00.180 --> 00:03:06.820] Então dito isso, as linhas têm que ser paralelas e bem claras, bem definidas,
+[00:03:06.820 --> 00:03:12.380] a gente até já mostrou, mas vai repetir aqui, a importância da sinalização,
+[00:03:12.380 --> 00:03:18.460] as placas de sinalização conferem o papel fundamental na padronização, na orientação das equipes,
+[00:03:18.460 --> 00:03:26.780] e aí a gente vai aqui ter uma operação de, dando exemplo aqui da operação em apirrinho de baixo para cima,
+[00:03:26.780 --> 00:03:32.460] a linha desescarga, ela vai acontecer aonde? Sempre o mais próximo possível do pé do talude,
+[00:03:32.580 --> 00:03:36.740] se eu tenho a possibilidade de colocar ele muito próximo aqui do pé do talude,
+[00:03:36.740 --> 00:03:42.580] não em cima do pé, né, pouco fora do pé, para dar para o trator enxergar e avançar,
+[00:03:42.580 --> 00:03:47.460] mas ele vai ser próximo, colocar do mais rápido, o mais próximo possível.
+[00:03:47.460 --> 00:03:51.220] Muitas vezes isso não é possível, porque às vezes porque estão de acesso,
+[00:03:51.220 --> 00:03:55.820] às vezes porque o acesso não está com solidar o suficiente, às vezes porque suja mesmo,
+[00:03:55.820 --> 00:04:01.500] às vezes porque a gente tem a atividade de remoção, onde tem que descascar essa camada de solo aqui,
+[00:04:01.500 --> 00:04:07.380] para vir com a nova camada de lixo, então quando isso acontece eu vou ter acabado tendo
+[00:04:07.380 --> 00:04:14.140] um área de transporte um pouco maior, mas independente de se vai ser, exatamente quase no pé do talude,
+[00:04:14.140 --> 00:04:19.060] ou se vai ser um pouco mais afastado, o importante é que ela ocorra em linha reta,
+[00:04:19.060 --> 00:04:25.740] que ela ocorra com pilhas dispostas lado a lado, uma do lado da outra, como a gente vê aqui nessa foto,
+[00:04:25.820 --> 00:04:32.940] somente essa linha de descarga aqui, dessa forma em linha, vai permitir que o trator
+[00:04:32.940 --> 00:04:37.820] é vinte de fazer deslocamentos improdutivos, você imagina que se eu tivesse aqui essa pilha aqui,
+[00:04:37.820 --> 00:04:44.100] uma outra pilha aqui, outra pilha aqui, eu ia ter uma dificuldade de atacar as pilhas,
+[00:04:44.100 --> 00:04:47.700] o trator ia andar um distância menor aqui, depois distância maior aqui,
+[00:04:47.700 --> 00:04:54.060] depois distância maior aqui, esse pedaço aqui entre elas, ele ia deslocar completamente
+[00:04:54.060 --> 00:05:00.180] ativocas, ele ia ter um deslocamento que não ia servir para nada, então é fundamental que a gente
+[00:05:00.180 --> 00:05:08.020] tenha essas linhas de descarga retas e as pilhas dispostas alinhadas, uma do lado da outra,
+[00:05:08.020 --> 00:05:16.300] então isso também facilita e permite o bom aproveitamento da lâmina do trator,
+[00:05:16.300 --> 00:05:20.580] toda vez que a lâmina do trator, você tem que pegar uma pilha sozinha no chão,
+[00:05:20.580 --> 00:05:25.980] a pilha disposta solta, aleatória, sem estar com outra pilha do lado, ele vai ter uma perda,
+[00:05:25.980 --> 00:05:31.580] porque ele nunca consegue levar uma pilha inteira em uma viagem só, então ele vai acabar levando
+[00:05:31.580 --> 00:05:35.660] um pedaço dela, levando outro pedaço e vai acabar ficando com uma quantidade pequena de lixo,
+[00:05:35.660 --> 00:05:41.300] vai transportar e ele vai fazer deslocamentos, às vezes produtivos,
+[00:05:41.300 --> 00:05:46.660] às vezes improdutivos, na média vai cair a capacidade de trabalho do trator.
+[00:05:46.660 --> 00:05:51.740] Quando você tem pilhas dispostas lado a lado, ele vai estar sempre pegando uma quantidade correta
+[00:05:51.740 --> 00:05:59.340] de lixo ali e vai ter uma capacidade lâmina bem mais adequada, e além disso ele também mantém
+[00:05:59.340 --> 00:06:05.620] a praça organizada, limpa e sem bagunça, sem desorganização, então o descarte em linha é
+[00:06:05.620 --> 00:06:11.380] uma das técnicas mais importantes para o alimento de compactação que devem ser operadas por
+[00:06:11.380 --> 00:06:15.380] toda a equipe, não é a responsabilidade apenas do operador, é o operador quando
+[00:06:15.380 --> 00:06:19.540] o lixo está descarregado, está sendo descartado de forma incorreta, ele tem que alertar a equipe,
+[00:06:19.540 --> 00:06:24.500] mas principalmente quem orienta os caminhões de descarga é que deve ter essa preocupação
+[00:06:24.500 --> 00:06:35.460] de dispor as cargas, as pilhas de lixo em linha e de forma organizada. É importante que a gente
+[00:06:35.460 --> 00:06:39.580] veja que nem sempre as pilhas são do mesmo tamanho, às vezes você tem pilhas de carreta,
+[00:06:39.580 --> 00:06:44.260] que são pilhas muito grandes, muito longas, e a carreta acaba descarregando nesse sentido
+[00:06:44.260 --> 00:06:50.660] que a pilha seja muito longa. Aqui a gente vai ter duas maneiras de resolver esse problema,
+[00:06:50.660 --> 00:06:56.740] uma das maneiras é quebrando a pilha e transformando ela em uma pilha alinhada reta, e a outra maneira
+[00:06:56.740 --> 00:07:05.180] é a gente na hora de atacar a pilha, pegar um pouco menos de lixo e fazer um trabalho
+[00:07:05.180 --> 00:07:12.620] um pouco mais distante, mas a gente tem sempre essa possibilidade de descarregar essa pilha
+[00:07:12.620 --> 00:07:19.740] em ângulo, e esse é a grande dica que a gente vai dar aqui, a dica pé no barro, sempre que possível
+[00:07:19.740 --> 00:07:25.700] posicionem as pilhas em ângulo, coladas uma na outra, mesmo pilhas pequenas, quando você coloca
+[00:07:25.700 --> 00:07:32.180] ela em ângulo, você vê que o caminhão não está reto, ele está meio de lado aqui, isso faz com
+[00:07:32.180 --> 00:07:36.660] que ele consiga botar uma pilha quase em cima da outra aqui, quase do lado da outra, e aí ele
+[00:07:36.660 --> 00:07:44.260] vai incluir quase zero o vácuo aqui de material sem nada no meio. Quando você tem uma pilha grande,
+[00:07:44.260 --> 00:07:49.900] você dispõe ela meio que na diagonal, você facilita o trabalho do trator na hora de fazer o
+[00:07:49.900 --> 00:07:54.940] espalhamento e compactação dessa pilha, então essa é uma solução também importante para
+[00:07:54.940 --> 00:08:01.380] pilhas maiores, então essa é uma dica que a gente traz em caso de pilhas maiores e também em caso
+[00:08:01.380 --> 00:08:07.740] de pilhas maiores, sempre que for possível, procure descartar os equipamentos meio que em ângulo
+[00:08:07.740 --> 00:08:14.420] para facilitar e para fazer o que você tenha no aproveitamento melhor da área, e essa foto ela
+[00:08:14.420 --> 00:08:18.900] traz também um assunto que é importante a gente lembrar, aquilo que a gente, todas as técnicas
+[00:08:18.900 --> 00:08:24.500] que a gente fala de espalhamento e compactação para lixo, elas valem também para solo,
+[00:08:24.500 --> 00:08:31.220] esse é o solo também espalhado e compactado, portanto ele também se aproveita das técnicas
+[00:08:31.220 --> 00:08:38.460] de espalhamento e compactação. Então esse foi mais um vídeo sobre técnicas de espalhamento
+[00:08:38.460 --> 00:08:46.780] e compactação, apresentando hoje o descartinho em linha e a gente agradece a vocês e espero vocês no próximo vídeo.

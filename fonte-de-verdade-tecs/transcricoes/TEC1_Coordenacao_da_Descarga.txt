@@ -1,0 +1,175 @@
+[00:00:03.180 --> 00:00:06.540] Vamos para mais uma técnica de espalhamento e compactação.
+[00:00:06.540 --> 00:00:09.580] Chegou a hora de falar da coordenação de descasa.
+[00:00:09.580 --> 00:00:13.820] Você, quando vai ao supermercado,
+[00:00:13.820 --> 00:00:18.020] você percebe que os caixas estão todos abertos,
+[00:00:18.020 --> 00:00:21.720] ou seja, o supermercado trabalha com todas as posições de caixa abertas?
+[00:00:21.720 --> 00:00:24.920] Talvez oumente não.
+[00:00:24.920 --> 00:00:28.820] A gente, quando tem um supermercado,
+[00:00:28.820 --> 00:00:36.430] olá pessoal, vamos para mais uma técnica de espalhamento e compactação.
+[00:00:36.430 --> 00:00:39.830] Chegou a hora de falar da coordenação de descada.
+[00:00:39.830 --> 00:00:43.530] Você, quando vai ao supermercado, encontra todos os caixas funcionando,
+[00:00:43.530 --> 00:00:48.530] todas as posições de caixa dos supermercados estão sempre abertas à disposição do público?
+[00:00:48.530 --> 00:00:49.830] Talvez oumente não.
+[00:00:49.830 --> 00:00:53.830] Você vai em um supermercado que tem uma bateria de 10 caixas ou 20 caixas
+[00:00:53.830 --> 00:00:58.230] e tem normalmente 3 caixas abertas, 4, 5, 10,
+[00:00:58.230 --> 00:01:02.630] depende do movimento, depende do número de pessoas tendo o supermercado
+[00:01:02.630 --> 00:01:05.030] e você obviamente tem filas.
+[00:01:05.030 --> 00:01:07.830] A mesma coisa é numa operação de aterrosanitário.
+[00:01:07.830 --> 00:01:12.630] Você tem que saber diferenciar o que são vagas à disposição
+[00:01:12.630 --> 00:01:18.930] e o número de operações de descargas simultâneas que um aterro permite que sejam feitas.
+[00:01:18.930 --> 00:01:21.130] Vamos entender bem o que é que significa isso?
+[00:01:21.130 --> 00:01:24.130] No caso da foto aí você vê o quê? 5 vagas.
+[00:01:24.130 --> 00:01:28.330] Vamos dizer que nessa operação a gente definiu que a gente vai ter 5 vagas.
+[00:01:28.330 --> 00:01:32.030] Nós temos aí nessa foto 5 carros descarregando ao mesmo tempo.
+[00:01:32.030 --> 00:01:38.330] Isso é possível, isso pode ser feito, isso não é possível, isso não pode ser feito.
+[00:01:38.330 --> 00:01:44.330] Por uma questão de segurança, não é recomendável que você descarregue simultaneamente
+[00:01:44.330 --> 00:01:49.930] dois caminhões sem respeitar o perímetro de segurança entre eles.
+[00:01:49.930 --> 00:01:52.830] No caso do perímetro de segurança de um compactador,
+[00:01:52.830 --> 00:01:56.730] ele é diferente do perímetro de segurança de uma carreta.
+[00:01:56.730 --> 00:02:00.430] Por quê? Porque pode acontecer o tombamento no caminhão
+[00:02:00.430 --> 00:02:07.130] e o que vai trazer, além de risco, a vida e a saúde das pessoas,
+[00:02:07.130 --> 00:02:10.630] vai trazer também prejuízos e comportementes da sua operação.
+[00:02:10.630 --> 00:02:15.930] Então correto é que você não tenha ninguém no perímetro de segurança do equipamento.
+[00:02:15.930 --> 00:02:20.230] Vamos ver na foto se isso aqui está sendo obedecido?
+[00:02:20.230 --> 00:02:24.830] Nós temos uma carreta descarregando aqui, do lado não temos ninguém.
+[00:02:24.830 --> 00:02:28.230] Esse trator que está aqui na foto, ele já está lá na pilha de lixo,
+[00:02:28.230 --> 00:02:32.430] ele já está na rampa, ou seja, ele está fora do raio e influência da carreta.
+[00:02:32.430 --> 00:02:36.230] E esse cidadão que está aqui, ele está à frente do equipamento.
+[00:02:36.230 --> 00:02:39.730] Ele pode estar nessa posição, sim, ele já orientou o caminhão
+[00:02:39.730 --> 00:02:44.730] e o caminhão está avançado, está fora da área de alcance dele.
+[00:02:44.730 --> 00:02:47.730] Então aqui a gente está na posição correta.
+[00:02:47.730 --> 00:02:51.330] Se tiver algum problema com esse caminhão, um tombamento, alguma coisa assim,
+[00:02:51.330 --> 00:02:55.730] ele não vai atingir ninguém em meio ao equipamento, assim como a carreta também.
+[00:02:55.730 --> 00:02:57.530] Mas aí o que está acontecendo?
+[00:02:57.530 --> 00:03:00.330] A gente viu na técnica de sentido de trabalho
+[00:03:00.330 --> 00:03:04.430] que nós temos que ter, a gente tem que definir uma quantidade de pilhas
+[00:03:04.430 --> 00:03:07.230] que vai ser a nossa baterlada,
+[00:03:07.230 --> 00:03:12.730] e essa quantidade de pilhas, ela vai ser disposta em linha, beleza?
+[00:03:12.730 --> 00:03:16.230] E a gente viu na técnica de sentido de trabalho
+[00:03:16.230 --> 00:03:18.930] que ele vai sempre trabalhar no sentido coordenado.
+[00:03:18.930 --> 00:03:22.230] Vamos supor, se eu tenho aqui a vaga 1, 2, 3, 4 e 5,
+[00:03:22.230 --> 00:03:25.230] ele vai trabalhar dar 1 até 5 fazendo espalhamento
+[00:03:25.330 --> 00:03:29.330] e depois vai voltar dar 5 até 1 fazendo compactação
+[00:03:29.330 --> 00:03:33.130] para só depois que tiver pronto as 5 pilhas novamente,
+[00:03:33.130 --> 00:03:35.230] ele vai voltar a trabalhar novamente.
+[00:03:35.230 --> 00:03:41.030] Então, se eu faço assim e ele descarrega um lixo na 1 e na 5,
+[00:03:41.030 --> 00:03:42.030] o que vai acontecer?
+[00:03:42.030 --> 00:03:44.430] Vai bagunçar o meu sentido de trabalho?
+[00:03:44.430 --> 00:03:48.030] Provavelmente não, não tem por que bagunçar o sentido de trabalho.
+[00:03:48.030 --> 00:03:50.730] Por que não tem por que bagunçar o sentido de trabalho?
+[00:03:50.730 --> 00:03:54.530] Porque nós vamos fazer o preenchimento dessas pilhas
+[00:03:55.030 --> 00:03:57.930] até ela estar completa.
+[00:03:57.930 --> 00:04:00.730] E o trator, depois que ele terminar de compactar,
+[00:04:00.730 --> 00:04:03.030] ele vai encostar e vai desligar
+[00:04:03.030 --> 00:04:05.530] e vai esperar formar 5 pilhas de novo.
+[00:04:05.530 --> 00:04:08.630] Se esse é o número de pilhas que a gente vai definir para ter.
+[00:04:08.630 --> 00:04:10.430] Então, é sempre importante isso.
+[00:04:10.430 --> 00:04:12.830] Nós operamos em baterladas.
+[00:04:12.830 --> 00:04:15.530] Nós só acionamos o trator
+[00:04:15.530 --> 00:04:19.930] quando temos uma quantidade de pilhas adequada para trabalhar.
+[00:04:19.930 --> 00:04:22.130] Isso é definido por cada operação.
+[00:04:22.230 --> 00:04:24.930] Cada operação deve definir a quantidade de pilhas
+[00:04:24.930 --> 00:04:30.630] que vai ser utilizada como baterlada, como padrão,
+[00:04:30.630 --> 00:04:32.930] e aí só entre a operação
+[00:04:32.930 --> 00:04:36.730] quando conclui aquelas pilhas que foram definidas.
+[00:04:36.730 --> 00:04:38.630] Então, vamos dar mais um exemplo aqui.
+[00:04:38.630 --> 00:04:42.730] Nós temos uma operação em que o trator está parado,
+[00:04:42.730 --> 00:04:45.530] está aqui toda a frente operacional organizada,
+[00:04:45.530 --> 00:04:47.530] com limitação,
+[00:04:47.530 --> 00:04:49.930] por onde os caminhões tem que entrar,
+[00:04:49.930 --> 00:04:51.230] por onde os caminhões vão sair,
+[00:04:51.230 --> 00:04:54.030] tudo organizado e identificado.
+[00:04:54.030 --> 00:04:56.630] As pilhas estão dispostas em linha
+[00:04:56.630 --> 00:04:58.730] e tem aqui um vazio no meio,
+[00:04:58.730 --> 00:05:00.330] tem uma pilha já aqui nesse canto
+[00:05:00.330 --> 00:05:03.130] e tem uma, duas, três, quatro, cinco.
+[00:05:03.130 --> 00:05:04.230] Então, vamos dizer,
+[00:05:04.230 --> 00:05:07.330] não sei se a terra provavelmente deve ter um padrão
+[00:05:07.330 --> 00:05:09.530] de operar a cada 8 pilhas.
+[00:05:09.530 --> 00:05:11.230] Você vê a placa disposta aqui
+[00:05:11.230 --> 00:05:13.230] mostrando que é uma placa de descarga,
+[00:05:13.230 --> 00:05:15.230] aqui a placa da crista do Talude,
+[00:05:15.230 --> 00:05:18.230] mostrando que é a linha de descarte.
+[00:05:18.230 --> 00:05:20.430] Então, os equipamentos vão entrar,
+[00:05:20.430 --> 00:05:22.230] vão descarregar o material
+[00:05:22.230 --> 00:05:25.430] e o trator vai ficar aqui aguardando.
+[00:05:25.430 --> 00:05:27.530] Quando tiver a quantidade de pilhas certas
+[00:05:27.530 --> 00:05:28.730] para entrar em operação,
+[00:05:28.730 --> 00:05:29.630] ele vai entrar em operação
+[00:05:29.630 --> 00:05:32.230] e vai fazer espalhamento e compactação das pilhas.
+[00:05:32.230 --> 00:05:35.930] Então, a coordenação da descarga,
+[00:05:35.930 --> 00:05:39.230] a colocação do lixo nas pilhas,
+[00:05:39.230 --> 00:05:41.230] ela pode ser aleatório.
+[00:05:41.230 --> 00:05:42.830] O que não pode ser aleatório
+[00:05:42.830 --> 00:05:46.130] é o trabalho de espalhamento e compactação.
+[00:05:46.130 --> 00:05:47.730] Então, no sentido de trabalho,
+[00:05:47.730 --> 00:05:49.730] a gente vai sempre trabalhar
+[00:05:49.730 --> 00:05:52.030] nos tiros só,
+[00:05:52.030 --> 00:05:53.730] ou seja, da pilha 1 até a pilha 5,
+[00:05:53.730 --> 00:05:54.530] até a pilha 6,
+[00:05:54.530 --> 00:05:56.130] seja lá quantas pilhas forem
+[00:05:56.130 --> 00:05:57.730] e volta compactando.
+[00:05:57.730 --> 00:06:00.930] E aí, eu vou encher essas pilhas,
+[00:06:00.930 --> 00:06:02.630] pode ser de forma aleatória.
+[00:06:02.630 --> 00:06:04.930] O ideal é que seja enchido também
+[00:06:04.930 --> 00:06:07.930] de forma organizada, de 1 até 5, de 1 até 6,
+[00:06:07.930 --> 00:06:09.930] mas caso por uma questão de segurança,
+[00:06:09.930 --> 00:06:12.530] eu preciso descargar 2 carros ao mesmo tempo
+[00:06:12.530 --> 00:06:14.830] e queira estabelecer esse limite,
+[00:06:14.830 --> 00:06:17.030] precisa estabelecer esse limite de segurança,
+[00:06:17.030 --> 00:06:18.930] não tem problema nenhum de eu dispor
+[00:06:18.930 --> 00:06:22.330] essas pilhas de forma aleatória
+[00:06:22.330 --> 00:06:24.430] e quando elas estiverem preenchidas,
+[00:06:24.430 --> 00:06:26.030] eu aciono o tratu.
+[00:06:26.030 --> 00:06:28.530] A gente vai ver um outro exemplo
+[00:06:28.530 --> 00:06:30.630] e vamos fazer um resumo sobre essa situação.
+[00:06:30.630 --> 00:06:32.530] Então, operação embatelada,
+[00:06:32.530 --> 00:06:34.230] essa coordenação de descarga,
+[00:06:34.230 --> 00:06:35.830] ela deve acontecer de que forma.
+[00:06:35.830 --> 00:06:38.630] Primeiro, defina o número de pilhas necessárias
+[00:06:38.630 --> 00:06:40.430] para acionar o tratu de esteira.
+[00:06:40.430 --> 00:06:46.130] Só depois de você completar a sequência de pilhas,
+[00:06:46.130 --> 00:06:49.030] o que você definiu é que você começa a acionar o tratu
+[00:06:49.030 --> 00:06:50.330] para fazer a operação.
+[00:06:50.330 --> 00:06:51.730] A gente vê um outro exemplo aqui
+[00:06:51.730 --> 00:06:53.830] exatamente igual ao anterior,
+[00:06:53.830 --> 00:06:55.730] porém, um outro tipo de operação.
+[00:06:55.730 --> 00:06:57.730] Lá, a gente viu a operação em Dalryl,
+[00:06:57.730 --> 00:06:59.430] as pilhas estavam dispostas em cima
+[00:06:59.430 --> 00:07:01.830] e o tratu ia descer espalhando e compactando.
+[00:07:01.830 --> 00:07:03.730] Aqui, você vê uma operação em Apriu.
+[00:07:03.730 --> 00:07:06.130] O caminhão aqui já está pronto para descargar,
+[00:07:06.130 --> 00:07:07.030] sem lona,
+[00:07:07.030 --> 00:07:08.430] mas ele não está descarregando
+[00:07:08.430 --> 00:07:10.230] porque não tem área.
+[00:07:10.230 --> 00:07:11.330] A frente está...
+[00:07:11.330 --> 00:07:13.430] Nós estamos aqui numa fase de fechamento,
+[00:07:13.430 --> 00:07:15.530] a frente está estreita,
+[00:07:15.530 --> 00:07:18.130] então não é possível descarregar dois caminhos
+[00:07:18.130 --> 00:07:18.830] ao mesmo tempo,
+[00:07:18.830 --> 00:07:20.630] vai descarregar de um e um,
+[00:07:20.630 --> 00:07:22.830] o outro vai estar aqui já pronto, esperando.
+[00:07:22.830 --> 00:07:24.530] Esse caminhão encosta,
+[00:07:24.530 --> 00:07:27.130] eu tenho aqui a pilha 1, a pilha 2, a pilha 3,
+[00:07:27.130 --> 00:07:29.430] na verdade, a pilha 1, a pilha 4, a pilha 5,
+[00:07:29.430 --> 00:07:31.230] ele está descarregando aqui no meio,
+[00:07:31.230 --> 00:07:33.130] não sei se aqui vai caber mais um,
+[00:07:33.130 --> 00:07:35.030] mas, enfim, ele vai descarregar,
+[00:07:35.030 --> 00:07:35.830] vai embora,
+[00:07:35.830 --> 00:07:38.430] depois essa carreta vem descarregar,
+[00:07:38.430 --> 00:07:41.330] e aí, só depois que tiver uma quantidade certa
+[00:07:41.330 --> 00:07:42.930] de pilha de lixo aqui,
+[00:07:42.930 --> 00:07:44.730] é que o tratu vai entrar em operação.
+[00:07:44.730 --> 00:07:46.430] Até lá tratu está aqui paradão,
+[00:07:46.430 --> 00:07:48.630] esperando, para entrar em operação,
+[00:07:48.630 --> 00:07:49.830] em batedradas.
+[00:07:49.830 --> 00:07:52.130] É isso que significa a operação em batedradas,
+[00:07:52.130 --> 00:07:54.530] e é dessa forma que a gente
+[00:07:54.530 --> 00:07:55.630] precisa operar,
+[00:07:55.630 --> 00:07:57.530] para a gente ter máxima eficiência,
+[00:07:57.530 --> 00:07:58.930] máxima segurança,
+[00:07:58.930 --> 00:08:01.830] e ter uma frente de trabalho sempre organizada, limpa,
+[00:08:01.830 --> 00:08:05.030] e pronta e bonita como essas frente que a gente viu aí.
+[00:08:05.030 --> 00:08:07.130] Certo? Então, agradeço a vocês
+[00:08:07.130 --> 00:08:08.330] mais uma vez,
+[00:08:08.330 --> 00:08:09.330] até o próximo vídeo.

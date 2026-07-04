@@ -1,0 +1,72 @@
+[00:00:03.310 --> 00:00:09.510] Vamos a mais uma técnica de espalhamento e compactação, chegou a hora de falar do ataque
+[00:00:09.510 --> 00:00:16.910] à pilha, seja a pilha de lixo, seja a pilha de solo, na hora de você espalhar e compactar,
+[00:00:16.910 --> 00:00:22.910] uma pilha você tem que utilizar a técnica correta, vamos ver no que é que ela se baseia
+[00:00:22.910 --> 00:00:28.470] e antes de mais nada vamos assistir uma operação e eu quero que vocês prestem atenção
+[00:00:28.470 --> 00:00:34.070] se a abordagem, se a forma de atacar essa pilha de solo foi adequada ou inadequada?
+[00:00:34.070 --> 00:01:05.880] Bom, a gente pode ver que o trator atacou a pilha de solo pelo meio, essa pilha é maior do que a
+[00:01:05.880 --> 00:01:12.800] capacidade da lâmina do trator de fazer espalhamento, se o trator ataca ela pelo meio como foi aqui
+[00:01:12.800 --> 00:01:18.720] nesse vídeo, o que é que ele vai fazer? Ele vai formar uma rebarba do lado esquerdo e uma
+[00:01:18.720 --> 00:01:24.880] rebarba do lado direito, essas duas rebarbas que ele vai formar, ele vai ter que fazer mais
+[00:01:24.880 --> 00:01:32.960] duas viagens ou dois ciclos operacionais para espalhar e compactar esse material, então você
+[00:01:32.960 --> 00:01:39.640] imagina o que? Numa pilha de lixo, uma pilha de solo, ele acabou fazendo três ciclos de
+[00:01:39.640 --> 00:01:47.160] frente re, se ele tivesse atacado essa pilha de um lado só, de uma maneira que desce
+[00:01:47.160 --> 00:01:53.440] uma metade da pilha e não deixar se rebarba desse lado, ele conseguiria depois fazer uma
+[00:01:53.440 --> 00:02:01.000] outra viagem do lado direito e concluir o seu serviço, portanto ele teria feito o espalhamento
+[00:02:01.000 --> 00:02:06.840] dessa pilha de lixo com dois ciclos operacionais ao invés de três que ele vai ter que fazer nesse
+[00:02:06.840 --> 00:02:16.120] vídeo, então você percebe que em três ele economizaria um ciclo, ou seja, mais de 30% de economia de
+[00:02:16.120 --> 00:02:22.480] máquina, de combustível, de material rodante, de custos em geral, então é aí que a gente se baseia
+[00:02:22.480 --> 00:02:29.520] para mostrar para vocês a importância que tem de você atacar a pilha de forma adequada e que
+[00:02:29.520 --> 00:02:37.440] forma é a forma adequada, então vamos concluir aqui para a gente ver o próximo vídeo. O trator,
+[00:02:37.440 --> 00:02:44.280] o operador trator tem que ter sempre a preocupação de encaixar o resíduo na lâmina, o resíduo ou
+[00:02:44.280 --> 00:02:52.360] a lâmina, de maneira a deixar um terço da lâmina livre, ele divide a lâmina em três partes visualmente,
+[00:02:52.360 --> 00:02:59.680] duas partes ele vai deixar com material e uma parte ele vai deixar sem nada vazio, porque isso,
+[00:02:59.680 --> 00:03:05.080] porque é que é feito isso, porque quando ele se desloca esse material ele vai se acomodar na
+[00:03:05.080 --> 00:03:14.600] lâmina e vai acabar ocupando toda a parte já protegida aqui pelo radiação da lâmina do
+[00:03:14.600 --> 00:03:21.320] equipamento, fazendo com que o lado externo, que nesse caso aqui representado pelo lado esquerdo,
+[00:03:21.320 --> 00:03:27.080] fique sempre limpo, então o que é que vai acontecer? Ele vai acabar entrando com essa
+[00:03:27.080 --> 00:03:33.200] rebaba com esse material, ele vai formar a rebaba na parte de dentro, tudo bem, mas ele vai deixar
+[00:03:33.200 --> 00:03:39.160] o lado de fora limpo, você já vai imaginar e a gente vai mostrar mais algumas imagens, mas já dá para
+[00:03:39.160 --> 00:03:46.120] adiantar que quando ele fizer os vários ciclos operacionais e vim deixando o lado de fora sempre
+[00:03:46.120 --> 00:03:51.000] limpo, quando ele chegar no final ele vai ter acabado o serviço dele, ele não tem que voltar para
+[00:03:51.000 --> 00:03:58.000] fazer retrabalho, não tem que voltar para limpar nada, então essa técnica ela faz com que a gente
+[00:03:58.000 --> 00:04:04.960] possa aproveitar os ciclos operacionais do equipamento para deixar sempre o material livre de
+[00:04:04.960 --> 00:04:10.240] retrabalho e com a carga adequada na lâmina, porque também não adianta você atacar pilha de qualquer
+[00:04:10.240 --> 00:04:15.600] jeito, pegar resíduo demais e acabar interferindo na velocidade do tratur. Quando o equipamento
+[00:04:15.600 --> 00:04:21.320] pega resíduo demais ele vai forçar a máquina, vai diminuir a velocidade de trabalho, portanto vai
+[00:04:21.320 --> 00:04:27.880] captando a produtividade, ou a máquina vai começar a subir no resíduo, ela começa a formar uma
+[00:04:27.880 --> 00:04:34.080] camada onde não é para formar ainda, então essa técnica ela é importantíssima para a gente
+[00:04:34.080 --> 00:04:41.000] garantir produtividade e para a gente garantir qualidade do trabalho, a gente quando fala deixar
+[00:04:41.000 --> 00:04:45.680] uma parte da lâmina livre pode parecer que vai ser improdutivo, porque o tratur vai estar
+[00:04:45.680 --> 00:04:51.200] pegando menos lixo do que ele poderia pegar, mas na verdade não é essa, ele acaba pegando
+[00:04:51.200 --> 00:04:56.400] uma parte certa de lixo, porque o lixo vai se acomodar na frente do equipamento. E essa rebarba
+[00:04:56.400 --> 00:05:03.600] de dentro tem problema? Problema nenhum, quando o tratur chegar no ponto dele de trabalho e voltar
+[00:05:03.600 --> 00:05:09.760] para fazer o próximo ciclo operacional, essa rebarba que ele deixou ele vai levar, então ele vai
+[00:05:09.760 --> 00:05:16.040] pegar um pouco de lixo aqui, vai deixar um texto da lâmina livre e aí essa rebarba vai acabar
+[00:05:16.040 --> 00:05:21.200] se acomodando e ele vai fazer o próximo ciclo. O importante é que ele não deixe a rebarba para
+[00:05:21.200 --> 00:05:27.440] quando ele chegar no final do trabalho dele, ele está com a praça limpa. Vamos ver agora um tratur
+[00:05:27.440 --> 00:05:32.240] fazendo essa operação de maneira correta, quero que vocês observem que ele deixa um
+[00:05:32.240 --> 00:05:37.280] texto da lâmina limpa, sem lixo, depois do material aqui, no caso foi o solo que a gente usou
+[00:05:37.280 --> 00:05:42.600] para fazer essa demonstração, ele vai acabar se acomodando na frente da máquina, deixando
+[00:05:42.640 --> 00:05:49.800] a quantidade de solo adequada, aqui ele já está fazendo espalhamento do material, então depois
+[00:05:49.800 --> 00:05:55.000] que ele pega ele começa a levantar para deixar o material soltando o material na embaixo do
+[00:05:55.000 --> 00:06:00.240] equipamento e percebam que ele deixou a área de fora limpa. Uma outra coisa que eu quero que vocês
+[00:06:00.240 --> 00:06:07.800] observem é como ele encaixa a máquina na pilha praticamente sem tomar distância, ele vende ré,
+[00:06:07.800 --> 00:06:14.360] ele meio que estaciona a máquina como se ele estacionando em uma vaga e aí em seguida ele vai
+[00:06:14.360 --> 00:06:20.560] para cima da pilha de lixo, ou seja, não toma distância para a pilha, que é outra coisa importante na
+[00:06:20.560 --> 00:06:25.640] hora de atacar a pilha de lixo, então vamos dar uma olhada para a gente avaliar melhor uma operação
+[00:06:25.640 --> 00:06:44.820] dessa vez da maneira adequada. Um pouco da rebarba aqui, você vê que o lixo ele vai se acomodando,
+[00:06:44.820 --> 00:06:51.700] ele vai se acomodando e aí ele acaba não deixando praticamente nenhum rebarba e fazendo
+[00:06:51.700 --> 00:06:57.860] todo o si com forma correta. Quando ele chega nessa posição ele não tem retrabalho nenhum e ele acabou
+[00:06:57.860 --> 00:07:05.460] levando a quantidade adequada de material. Então aqui mostra um outro exemplo, ele vai soltando
+[00:07:05.460 --> 00:07:12.020] o lixo, chega lá em cima com 100 lixo, volta para pegar mais, encaixa a máquina na pilha, você
+[00:07:12.020 --> 00:07:18.900] vai no lado externo, fica sempre linda, o lado de dentro com rebarba natural e ele vai tratar dessa
+[00:07:18.900 --> 00:07:25.900] rebarba quando fizer a próxima viagem. Essa é a operação padrão que a gente tem que implementar.
+[00:07:25.900 --> 00:07:34.420] O ataque à pilha ele serve para eliminar o retrabalho, ou seja, você evita rebarbas, você dá uma
+[00:07:34.420 --> 00:07:39.300] maior eficiência na lâmina, você acaba trabalhando com a lâmina com a carga correta,
+[00:07:39.300 --> 00:07:45.620] não tem mais nem menos e mantém sempre a plaça limpa e organizado. Agora nós já vimos a técnica
+[00:07:45.620 --> 00:07:51.980] de linha de descarta, você não consegue aplicar técnicas operacionais se não tiver a organização,
+[00:07:51.980 --> 00:07:58.140] você não consegue aplicar técnico operacional de ataque à pilha de maneira eficiente se você não
+[00:07:58.140 --> 00:08:05.340] tiver as pilhas dispostas de maneira adequada, as pilhas em linha e se possível em ângulo para
+[00:08:05.340 --> 00:08:10.140] ser colocadas praticamente uma grudada na outra, com isso você acaba conseguindo uma melhor
+[00:08:10.140 --> 00:08:15.340] performance, inclusive com relação à técnica de espalhamento de compactação e ataque à pilha.
+[00:08:15.340 --> 00:08:20.340] Agradeço a vocês pela atenção mais uma vez e até o próximo vídeo.

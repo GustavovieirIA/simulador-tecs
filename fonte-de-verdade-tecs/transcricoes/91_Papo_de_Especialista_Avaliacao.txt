@@ -1,0 +1,86 @@
+[00:00:03.150 --> 00:00:05.790] E agora, vamos um papo de especialista?
+[00:00:05.790 --> 00:00:09.850] Agora que a gente já conheceu as técnicas, já revisou, já discutiu,
+[00:00:09.850 --> 00:00:11.850] vamos avaliar algumas operações?
+[00:00:11.850 --> 00:00:15.950] Eu quero que a luz das técnicas operacionais, do espalhamento de compactação,
+[00:00:15.950 --> 00:00:20.150] vocês já viram todas as técnicas, agora eu quero que vocês prestem atenção nas suas operações
+[00:00:20.150 --> 00:01:17.360] e vejam o que está certo, o que está errado.
+[00:01:17.360 --> 00:01:22.360] Primeira coisa, já vamos olhar as pilhas, elas estão dispostas em linha?
+[00:01:22.360 --> 00:01:27.160] Não estão, as pilhas estão acumuladas aqui, dispostas um na frente da outra,
+[00:01:27.160 --> 00:01:32.960] ou seja, o trator vai ter muita dificuldade em manter as pessoas de camada adequada,
+[00:01:32.960 --> 00:01:37.460] ele acaba subindo e utilizando mais solo para cobrir do que o necessário,
+[00:01:37.460 --> 00:01:40.960] além de que ele não tem um trabalho coordenado, não tem um trabalho produtivo,
+[00:01:40.960 --> 00:01:45.860] além de forçar um pouco mais a máquina, ela vai trabalhar mais pesada,
+[00:01:45.860 --> 00:01:50.060] mais forçando mais e não vai ter um trabalho adequado.
+[00:01:50.060 --> 00:01:54.360] E a outra coisa é o sentido de trabalho, primeira viagem que ele fez foi lá do outro lado,
+[00:01:54.360 --> 00:01:58.360] agora ele vem do outro lado de cá, com isso ele não está com trabalho adequado.
+[00:01:58.360 --> 00:02:04.360] Vamos ver mais uma parte de vídeo, depois a gente comenta aqui os erros ou...
+[00:02:04.360 --> 00:02:29.540] ver que a camada dele acaba ficando muito grande,
+[00:02:29.540 --> 00:02:32.040] outra observação que a gente faz é a distância,
+[00:02:32.040 --> 00:02:36.540] quando eu trabalho sentido programado, eu tenho que eliminar os movimentos improdutivos,
+[00:02:36.540 --> 00:02:40.540] ou seja, eu terminei de dar ré, dar um sentido de trabalho,
+[00:02:40.540 --> 00:02:44.540] eu já encaixo a máquina para ir para o próximo sentido,
+[00:02:44.540 --> 00:02:49.540] eu não preciso tomar uma distância muito grande, o trato não vai bater falta, ok?
+[00:02:49.540 --> 00:02:56.540] Não preciso tomar distância, porque essa distância é um movimento improdutivo desnecessário.
+[00:02:56.540 --> 00:04:02.860] Aí a gente percebe mais uma vez a questão da distância, completamente desnecessária,
+[00:04:02.860 --> 00:04:06.860] e aí para fechar com chave de ouro, eu mandei o contrário,
+[00:04:06.860 --> 00:04:11.860] há um ataque à filha pelo meio, formando duas rebarro de dois lados,
+[00:04:11.860 --> 00:04:17.860] uma quantidade completamente produtiva de material para ser trabalhada.
+[00:04:17.860 --> 00:04:22.860] Se você tivesse o ataque daquela filha, no mesmo sentido que ele já estava vindo,
+[00:04:22.860 --> 00:04:29.860] deixando um pouco de lâmina livre, e depois ele terminasse o ataque,
+[00:04:29.860 --> 00:04:31.860] ele teria terminado usado uma viagem a mais.
+[00:04:31.860 --> 00:04:35.860] Então, nesses pontos que a gente vai se pegando para mostrar
+[00:04:35.860 --> 00:04:42.860] como é diferente um trabalho coordenado, usando técnicas operacionais mais adequadas.
+[00:04:42.860 --> 00:04:47.860] E aí a gente vê o exemplo contrário, correto, aceleração.
+[00:04:47.860 --> 00:05:09.240] Você vê que ele não fica de barba meio linda,
+[00:05:09.240 --> 00:05:12.240] mas soltando o material embaixo da máquina,
+[00:05:12.240 --> 00:05:21.880] terminou de soltar, volta, praticamente encaixa a máquina,
+[00:05:21.880 --> 00:05:25.880] a gente está soltando o equipamento e vai no próximo sinal.
+[00:05:25.880 --> 00:05:29.450] No início, ele até parece que é feito o material,
+[00:05:29.450 --> 00:05:32.450] mas depois ele se acomoda todo no longo,
+[00:05:32.450 --> 00:05:35.450] mostrando que se tivesse mais material, ia acabar saindo.
+[00:05:35.450 --> 00:05:38.450] E assim o produtivo também.
+[00:05:38.450 --> 00:05:44.610] Então, essa é a maneira que a gente olhe,
+[00:05:44.610 --> 00:05:47.610] que seja feita a operação.
+[00:05:47.610 --> 00:06:06.490] Mais uma vez, e assim lá.
+[00:06:06.490 --> 00:06:12.150] E agora não vem algumas operações completamente inadequadas.
+[00:06:12.150 --> 00:06:16.150] Você vê o trator, a rampa completamente solta,
+[00:06:16.150 --> 00:06:18.150] o trator está todo enterrado, patinando,
+[00:06:18.150 --> 00:06:21.150] o produtivo, forçando a máquina.
+[00:06:21.150 --> 00:06:25.150] Não consegue chegar em cima, volta sem bater Cristo,
+[00:06:25.150 --> 00:06:29.530] essa é uma operação onde não há compactação,
+[00:06:29.530 --> 00:06:32.530] não há sentido de trabalho.
+[00:06:32.530 --> 00:06:35.530] Aqui, da mesma forma,
+[00:06:35.530 --> 00:06:37.530] uma operação fora do Brasil,
+[00:06:37.530 --> 00:06:40.530] utilizando rolos compactadores de resíduos,
+[00:06:40.530 --> 00:06:43.530] equipamentos com uma performance de compactação fantástica,
+[00:06:43.530 --> 00:06:45.530] um planeta extremamente caro,
+[00:06:45.530 --> 00:06:47.530] mas que, se usados de forma inadequada,
+[00:06:47.530 --> 00:06:49.530] eles não vão dar melhor performance,
+[00:06:49.530 --> 00:06:52.530] além de ter um custo muito mais alto.
+[00:06:52.530 --> 00:06:55.530] Aqui, mais uma vez, uma operação completamente solta,
+[00:06:55.530 --> 00:06:58.530] lixo solto, não tem Cristo, não tem pé,
+[00:06:58.530 --> 00:07:01.530] material todo disposto de forma aleatória,
+[00:07:01.530 --> 00:07:03.530] um monte de marcas trabalhando,
+[00:07:03.530 --> 00:07:07.530] o trator fez um trabalho lá que ninguém sabe qual foi,
+[00:07:07.530 --> 00:07:09.530] depois veio para cá ajudar.
+[00:07:09.530 --> 00:07:12.530] Essas marcas, o vídeo está acelerado,
+[00:07:12.530 --> 00:07:15.530] não tem muito tempo, mas você vê que a máquina está menta,
+[00:07:15.530 --> 00:07:18.530] ela já começa a pegar mais lixo que ela aguenta,
+[00:07:18.530 --> 00:07:20.530] o bico trator começa a subir,
+[00:07:20.530 --> 00:07:22.530] começa a patinar,
+[00:07:22.530 --> 00:07:25.530] ele está gastando uma energia gigantesca
+[00:07:25.530 --> 00:07:28.530] para fazer trabalho de limites.
+[00:07:28.530 --> 00:07:30.530] Olha a distância que esse trator toma,
+[00:07:30.530 --> 00:07:32.530] ele vai atacar a pilha lixo,
+[00:07:32.530 --> 00:07:34.530] a mesma coisa, mais lixo do que pode,
+[00:07:34.530 --> 00:07:36.530] com a base solta.
+[00:07:36.530 --> 00:07:41.810] Então, só para mostrar a diferença
+[00:07:41.810 --> 00:07:43.810] de uma operação feita de forma inadequada
+[00:07:43.810 --> 00:07:45.810] para uma operação feita usando técnicas
+[00:07:45.810 --> 00:07:47.810] de espalhamento de compactação,
+[00:07:47.810 --> 00:07:50.810] técnicas operacionais que é o que vocês dominam
+[00:07:50.810 --> 00:07:53.810] e vão praticar, aperfeiçoar,
+[00:07:53.810 --> 00:07:55.810] melhorar com tempo e ser operadores
+[00:07:55.810 --> 00:07:58.810] e profissionais cada vez mais capacitados,
+[00:07:58.810 --> 00:08:01.810] cada vez mais experientes e resíduos.
+[00:08:01.810 --> 00:08:03.810] Muito obrigado, até a próxima.

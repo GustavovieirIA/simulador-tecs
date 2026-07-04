@@ -1,0 +1,107 @@
+[00:00:03.540 --> 00:00:08.940] Olá pessoal, vamos a mais um vídeo do nosso programa de eficiência operacional e hoje nós
+[00:00:08.940 --> 00:00:15.820] vamos falar sobre as técnicas de espalhamento e compactação, as nossas famosas TEX. O que são
+[00:00:15.820 --> 00:00:20.940] as técnicas de espalhamento e compactação? Antes de entrar no tema, a gente vai fazer uma introdução
+[00:00:20.940 --> 00:00:25.380] às TEX, mostrando qual é a importância e mostrando por que você tem que aprender
+[00:00:25.380 --> 00:00:31.060] técnica de espalhamento e compactação para fazer atividade de preenchimento em
+[00:00:32.060 --> 00:00:37.620] Aplicação de técnicas é o que diferencia um trabalho profissional que um trabalho amador.
+[00:00:37.620 --> 00:00:43.660] O profissional é aquele que emprega técnicas no seu trabalho, técnicas desenvolvidas,
+[00:00:43.660 --> 00:00:49.980] elaboradas e aprimoradas ao longo do tempo. É isso que diferencia o profissional do amador.
+[00:00:49.980 --> 00:00:56.980] Então, o que é ser um profissional? Ser um profissional é exercer uma vocação que requer
+[00:00:56.980 --> 00:01:02.980] conhecimento e habilidades específicas. Você que atua como encarregado de frente
+[00:01:02.980 --> 00:01:08.020] operacional, você que atua como operador, que atua como auxiliar, como ajudante, como
+[00:01:08.020 --> 00:01:13.620] bandeirinha, como servente, você é um profissional. Você emprega técnicas, você tem uma vocação,
+[00:01:13.620 --> 00:01:17.140] você tem uma coisa que você aprendeu e desenvolveu com o tempo e você
+[00:01:17.140 --> 00:01:21.780] emprega técnicas operacionais na sua atividade. Assim como um médico,
+[00:01:21.780 --> 00:01:27.940] como um engenheiro, um advogado, um técnico, um eletricista, um encanador, um pedreiro,
+[00:01:27.940 --> 00:01:33.580] você também é um técnico. E a evolução do técnico, a evolução do profissional,
+[00:01:33.580 --> 00:01:40.420] ela vai sempre acontecer quando esses conhecimentos e essas habilidades são aprimoradas por meio
+[00:01:40.420 --> 00:01:45.580] de técnicas e métodos. Então, esse é o nosso trabalho. É por isso que a gente vem aqui
+[00:01:45.620 --> 00:01:53.340] condensar para vocês as atividades que vocês fazem no dia a dia em técnicas,
+[00:01:53.340 --> 00:02:01.900] em um método eficiente que foi pensado, elaborado e aprimorado. A gente, quando enxerga,
+[00:02:01.900 --> 00:02:07.940] por exemplo, uma indústria, quando enxerga até uma empresa de comércio, de serviço,
+[00:02:07.940 --> 00:02:13.860] a gente tem uma clara visão de um processo produtivo. Como a gente vê no caso de
+[00:02:13.860 --> 00:02:20.100] técnicas, de linhas de produção, é muito fácil enxergar um processo produtivo. E quando a gente vai
+[00:02:20.100 --> 00:02:26.860] para a nossa atividade, na atividade de operação de aterros sanitários, muitas pessoas não enxergam
+[00:02:26.860 --> 00:02:31.860] ali um processo produtivo, mas ele é um processo produtivo como outro qualquer. Ele também tem
+[00:02:31.860 --> 00:02:37.460] entradas, saídas, ele também tem atividades planejadas, assim como todo qualquer processo
+[00:02:37.460 --> 00:02:43.820] produtivo. Então, é importante a gente lembrar que dentro de uma empresa, que dentro de uma equipe,
+[00:02:43.820 --> 00:02:51.860] dentro de um time, as pessoas fazem atividades diferentes com o mesmo objetivo. A gente usa aqui
+[00:02:51.860 --> 00:02:58.820] o exemplo do futebol. Você tem ali 11 jogadores em campo, esses 11 jogadores, todos eles têm
+[00:02:58.820 --> 00:03:04.740] o mesmo objetivo, ganhar o jogo, fazer gol e não tomar gol. Mas os papéis deles são
+[00:03:04.740 --> 00:03:10.060] os jogadores, o atacante tem o mesmo papel do zagueiro, o meio de campo tem o mesmo papel do
+[00:03:10.060 --> 00:03:17.780] goleiro? Não, eles estão ali sob as mesmas regras, sob o mesmo uniforme, com a mesma equipe, com o mesmo
+[00:03:17.780 --> 00:03:22.980] técnico, com a mesma infraestrutura, com o mesmo clima, se estiver chovendo, está chovendo
+[00:03:22.980 --> 00:03:28.020] para os dois lados. Então, eles estão dentro das mesmas condições ambientais. Eles estão sob
+[00:03:28.020 --> 00:03:33.420] as mesmas regras, o que vale para um vale para todos, do mesmo time e do time adversário.
+[00:03:33.420 --> 00:03:38.980] Mas no entanto, eles têm papéis diferentes. Todo mundo cobra o lateral, todo mundo bate falta,
+[00:03:38.980 --> 00:03:45.020] todo mundo bate de dependent, todo mundo pode pegar a bola com a mão. Então, essas atividades que são
+[00:03:45.020 --> 00:03:52.660] específicas de cada jogador, elas são importantes e elas são treinadas também. Então, o atacante
+[00:03:52.660 --> 00:03:58.420] ele treina uma coisa, o zagueiro treina outra e eles têm coisas que todos treinam juntos e tem
+[00:03:58.500 --> 00:04:04.980] cada um treina para aprimorar a sua técnica na sua atividade. A mesma coisa a gente leva para
+[00:04:04.980 --> 00:04:11.260] dentro de uma atividade como a nossa, como um ateu sanitário. Nós temos setores, processos, funções,
+[00:04:11.260 --> 00:04:16.780] atividades e tarefas como qualquer outro processo produtivo, como num jogo de futebol. Então,
+[00:04:16.780 --> 00:04:21.340] o que é, para a gente procurar entender primeiro, o que é uma atividade? Atividade é uma
+[00:04:21.340 --> 00:04:25.940] unidade básica de trabalho. A gente chama de atividade, aqui é uma unidade básica de
+[00:04:25.940 --> 00:04:32.620] trabalho e vai ser muito claro agora a gente entender. O tratou de esteira e o operador do
+[00:04:32.620 --> 00:04:38.620] tratou de esteira, eles são iguais, se tem os tratores de esteira numa terra, são muitas vezes,
+[00:04:38.620 --> 00:04:45.180] às vezes uma ou vezes outra, uma marca diferente, mas normalmente eles têm a mesma estrutura,
+[00:04:45.180 --> 00:04:50.500] mesma forma e os operadores muitas vezes são os mesmos, mas o tratou de esteira,
+[00:04:50.500 --> 00:04:56.660] ele está transportando o lixo, ele está fazendo a mesma coisa quando ele está compactando o lixo?
+[00:04:56.660 --> 00:05:02.580] Não, ele está fazendo uma atividade diferente, então ele tem a função de transportar o lixo,
+[00:05:02.580 --> 00:05:06.460] que é pegar o lixo de um ponto e levar até o outro. Nesse momento, no momento que ele está
+[00:05:06.460 --> 00:05:09.820] fazendo essa atividade, ele não espalha, ou seja, ele não deixa o lixo descer para
+[00:05:09.820 --> 00:05:14.060] abaixo da lâmina, ele não compacta, quando ele está transportando o lixo ele não compacta.
+[00:05:14.060 --> 00:05:19.540] Quando ele está espalhando o lixo, ele não está transportando, o lixo ele está sendo
+[00:05:19.540 --> 00:05:24.820] colocado em baixo da lâmina, ele leva um pouco a lâmina para deixar que o lixo desça para
+[00:05:24.820 --> 00:05:28.660] abaixo da máquina, para abaixo da esteira, naquele momento ele está espalhando o lixo,
+[00:05:28.660 --> 00:05:33.380] é uma atividade completamente diferente da atividade de transportar, e assim por diante.
+[00:05:33.380 --> 00:05:40.420] Então, é por isso que a gente precisa entender que, assim como no jogo de futebol, em momentos
+[00:05:40.420 --> 00:05:47.020] diferentes, os operadores podem estar fazendo atividades diferentes, assim como um zagueiro
+[00:05:47.020 --> 00:05:54.260] que faz ego, dentro de uma operação, já tem o sanitário, normalmente os operadores
+[00:05:54.260 --> 00:06:00.260] fazem tudo, eles transportam, espalham, compactam e cobram, que é uma outra função do trator,
+[00:06:00.260 --> 00:06:05.300] que a gente acabou não trazendo para o slide para não confundir, mas eles fazem todas as
+[00:06:05.300 --> 00:06:09.180] funções, mas no momento em que ele está cobrindo o lixo, ele está fazendo atividade
+[00:06:09.180 --> 00:06:13.820] diferente, de uma forma diferente, ele está manejando o trator de uma forma diferente da forma
+[00:06:13.820 --> 00:06:18.980] que ele já está espalhando. Então, a gente precisa entender que os equipamentos e as
+[00:06:18.980 --> 00:06:26.020] pessoas, os operadores têm atividades diferentes e eles executam essas atividades em locais diferentes,
+[00:06:26.020 --> 00:06:30.460] assim como a gente deu o exemplo dos setores do campo, dos setores da empresa, setor de
+[00:06:30.460 --> 00:06:37.820] produção, setor de pintura, setor de embalagem, expedição, são setores diferentes de um
+[00:06:37.820 --> 00:06:42.860] processo produtivo. No campo nós temos a zaga, nós temos um meio de campo, nós
+[00:06:42.860 --> 00:06:48.780] temos o ataque, nós temos o gol, então são setores diferentes do campo. Em cada setor
+[00:06:48.780 --> 00:06:56.420] se executa com mais predominância uma atividade específica. Aqui é a mesma coisa, nós vamos
+[00:06:56.420 --> 00:07:02.740] ter na operação bem claro e bem diferenciado a praça de trabalho, a área de, que é onde
+[00:07:02.740 --> 00:07:07.100] é feita a operação de descarga do lixo, ali você transporta esse lixo do local
+[00:07:07.100 --> 00:07:15.500] onde ele é descarregado, até o local onde ele é, onde ele é deixado para começar a
+[00:07:15.500 --> 00:07:22.700] fazer o preenchimento. Então, nesse pedaço aqui, o lixo é simplesmente conduzido no ponto
+[00:07:22.700 --> 00:07:27.260] A até o ponto B, não fica lixo no caminho, não é para ficar lixo no caminho. A partir
+[00:07:27.260 --> 00:07:32.300] do ponto B que ele entra na parte de espalhamento e compactação que compreende a atividade
+[00:07:32.300 --> 00:07:36.580] para o instrumento, o operador deixa o lixo descer para baixo da lâmina, ele vai deixando
+[00:07:36.580 --> 00:07:40.900] uma camada de lixo, ele vai espalhando esse lixo ao longo da lâmina, quando ele chega na
+[00:07:40.900 --> 00:07:45.940] parte de cima que ele para, ou seja, ele tem que chegar aqui sem lixo e ele vai fazer
+[00:07:45.940 --> 00:07:50.060] a compactação da crista que é uma outra atividade. Então, você vê que ele faz
+[00:07:50.060 --> 00:07:55.580] em locais diferentes atividades diferentes, ele começa aqui atacando a pilha, faz
+[00:07:55.580 --> 00:07:59.820] a atividade de transporte até um determinado ponto, até desse ponto em diante ele
+[00:07:59.860 --> 00:08:04.460] começa a fazer a atividade de espalhamento e aí ele faz a compactação da crista e
+[00:08:04.460 --> 00:08:08.740] depois volta para compactar o resíduo que ele espalhou na viagem anterior. Então, você
+[00:08:08.740 --> 00:08:13.460] vê que é uma série de atividades diferentes que tem técnicas diferentes e é isso que
+[00:08:13.460 --> 00:08:18.020] a gente vai procurar abordar aqui nesse módulo com todos os temas que a gente
+[00:08:18.020 --> 00:08:22.740] tem que trazer. É importante que para que isso fique muito claro, para que o
+[00:08:22.740 --> 00:08:26.700] operador saiba qual é a área de transporte, qual é a área de espalhamento e
+[00:08:26.740 --> 00:08:31.020] compactação, onde é que está a crista, para ele fazer o margamento da crista e ele
+[00:08:31.020 --> 00:08:36.820] precisa de uma rampa bem conformada, de uma crista bem conformada, de uma estrutura
+[00:08:36.820 --> 00:08:41.060] bem sinalizada e precisa saber onde é o pé, onde é a crista do talúdio, onde é a
+[00:08:41.060 --> 00:08:46.060] frente de escada. Então, essa sinalização, essa definição de processo, ela é
+[00:08:46.060 --> 00:08:49.980] fundamental para que o processo quase que as atividades ocorrem. É o que a
+[00:08:49.980 --> 00:08:55.140] gente costuma dizer, sem planejamento, sem padronização, sem organização, não
+[00:08:55.140 --> 00:08:59.380] tem como se aplicar técnicas operacionais adequadas. Se eu não sei onde é o pé do
+[00:08:59.380 --> 00:09:04.660] lixo, onde é a crista, eu não sei qual é a área de espalhamento e compactação do
+[00:09:04.660 --> 00:09:09.980] resíduo. Então, é importantíssimo que a gente tenha isso tudo bem coordenado e
+[00:09:09.980 --> 00:09:14.140] isso não é um papel apenas o operador, isso é um papel de toda a operação que
+[00:09:14.140 --> 00:09:17.540] compreende o engenheiro, que compreende a gestão, que compreende os
+[00:09:17.540 --> 00:09:21.420] carregados, compreende os assistentes, os tuboadelinhos, todo mundo para que
+[00:09:21.420 --> 00:09:25.660] a gente tenha um processo organizado e um estrutura de trabalho adequada.
+[00:09:25.660 --> 00:09:31.820] Tá certo? Então, obrigado. Nós encerramos aqui o vídeo de apresentação para
+[00:09:31.820 --> 00:09:36.780] vocês das TEX e nos próximos vídeos você vão poder conhecer uma por uma as
+[00:09:36.780 --> 00:09:42.420] técnicas de espalhamento em compactação mais importantes, mais relevantes do
+[00:09:42.420 --> 00:09:46.420] método 360 graus de gestão de atingimento sanitário da QLS.
+[00:09:46.420 --> 00:09:48.420] Então, obrigado. Até o próximo vídeo.
